@@ -13,7 +13,7 @@ const Bottles = ({ bottlesPromise }) => {
     console.log("bottle will be added to the cart", bottle);
   };
   // console.log(bottles);
-  retur (
+  return (
     <div>
       <h3>Bottles: {bottles.length}</h3>
 
